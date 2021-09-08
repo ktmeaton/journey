@@ -1,0 +1,7 @@
+date	time	meal
+2021-09-07	09:30	Breakfast
+2021-09-07	13:00	Lunch
+2021-09-07	18:30	Supper
+2021-09-08	09:30	Breakfast
+2021-09-08	13:00	Lunch
+2021-09-08	18:30	Supper
